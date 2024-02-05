@@ -1,0 +1,47 @@
+
+LiquidStart
+left |cfff48cbaWindowpala|r  |cff00ff98Gdonut|r |cfffff468Pippir|r |cfff48cbaVidinapal|r |cffaad372Decohunting|r |cffffffffSlewen|r |cffaad372Syf|r 
+right |cffc41e3aQelgrip|r  |cff0070ddJøhññÿgrûz|r |cffa330c9Erlexd|r |cffff7c0aJamalkm|r |cff3fc7ebSnowm|r  |cfffff468Eleem|r |cffc69b6dEveey|r 
+middle  |cff33937fWubby|r  |cffa330c9Baddxd|r |cffaad372Pusselpetra|r |cff33937fMår|r |cff8788eeHojzti|r |cff33937fAlexmrfour|r 
+
+left |cfff48cbaWindowpala|r |cff33937fWubby|r |cfff48cbaVidinapal|r |cfffff468Pippir|r  |cffa330c9Baddxd|r |cffaad372Decohunting|r |cffaad372Syf|r |cff33937fMår|r 
+right |cffc41e3aQelgrip|r |cff00ff98Gdonut|r  |cffaad372Pusselpetra|r  |cff8788eeHojzti|r |cfffff468Eleem|r |cff33937fAlexmrfour|r 
+middle |cff0070ddJøhññÿgrûz|r |cffffffffSlewen|r |cff3fc7ebSnowm|r |cffc69b6dEveey|r |cffff7c0aJamalkm|r  |cffa330c9Erlexd|r
+
+left |cfff48cbaWindowpala|r |cfff48cbaVidinapal|r  |cffa330c9Baddxd|r |cff33937fMår|r |cffc69b6dEveey|r |cffffffffSlewen|r 
+right |cffc41e3aQelgrip|r |cff00ff98Gdonut|r |cff0070ddJøhññÿgrûz|r |cffaad372Pusselpetra|r |cffff7c0aJamalkm|r  |cff8788eeHojzti|r |cff33937fAlexmrfour|r |cff3fc7ebSnowm|r  |cffa330c9Erlexd|r
+middle |cff33937fWubby|r  |cfffff468Eleem|r  |cffaad372Decohunting|r |cfffff468Pippir|r   |cffaad372Syf|r 
+LiquidEnd
+
+"
+{time:00:23}{spell:420907} |cffF88379Rain Dmg|r - |cfffefefeGziv|r {spell:246287}  
+{time:00:35}{spell:425357} |cffFFD700Soak Dmg|r - |cff33937fSyfuumi|r {spell:374968}  
+{time:00:42}{spell:420907} |cffF88379Rain Dmg|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  |cff006fdcJøhññÿgrûz|r {spell:108281}  |cffc59a6cEveey|r {spell:97462}  
+{time:00:55}{spell:425357} |cffFFD700Soak Dmg|r - |cff00fe97Gdonut|r {spell:115310}  
+{time:01:02}{spell:420907} |cffF88379Rain Dmg|r - |cff006fdcJøhññÿgrûz|r {spell:108280}  
+{time:01:05}{spell:425357} |cffFFD700Soak Dmg|r - |cff33937fAlexmrfour|r {spell:374968}  
+{time:01:37}{spell:421368} |cffFFFF00Int dmg|r - |cff33937fWubby|r {spell:359816}  
+{time:01:47}{spell:421368} |cffFFFF00Int dmg|r - {everyone} {spell:2565}  
+{time:00:06,SAR:413443:1}{spell:420846} |cff8B4513Phase 2 Dmg|r - |cff33937fWubby|r {spell:363534}  |cfffefefeGziv|r {spell:246287}  |cff006fdcJøhññÿgrûz|r {spell:98008}  |cffa22fc8Jettdh|r {spell:196718}  class:Evoker {spell:374227}  |cffc31d39Qelgrip|r {spell:51052}  
+{time:00:41,SAR:413443:1}{spell:425357} |cffFFD700Soak Dmg|r - |cff33937fSyfuumi|r {spell:374968}  
+{time:00:51,SAR:413443:1}{spell:425357} |cffFFD700Soak Dmg|r - |cff006fdcJøhññÿgrûz|r {spell:108281}  
+{time:00:58,SAR:413443:1}{spell:420907} |cffF88379Rain Dmg|r - |cfff38bb9Vidinapal|r {spell:31821}  |cff006fdcJøhññÿgrûz|r {spell:114049}  
+{time:01:11,SAR:413443:1}{spell:425357} |cffFFD700Soak Dmg|r - |cff00fe97Gdonut|r {spell:115310}  
+{time:01:18,SAR:413443:1}{spell:420907} |cffF88379Rain Dmg|r - |cff006fdcJøhññÿgrûz|r {spell:108280}  
+{time:01:25,SAR:413443:1}{spell:427722} |cff9370DBDebuffs out|r - |cff33937fAlexmrfour|r {spell:374968}  
+{time:01:56,SAR:413443:1}{spell:421368} |cffFFFF00Int dmg|r - |cff33937fWubby|r {spell:359816}  |cff006fdcJøhññÿgrûz|r {spell:108281}  
+{time:02:07,SAR:413443:1}{spell:421368} |cffFFFF00Int dmg|r - {everyone} {spell:2565}  
+{time:00:06,SAR:413443:2}{spell:420846} |cff8B4513Phase 2 Dmg|r - |cfffefefeGziv|r {spell:62618}  |cffc31d39Qelgrip|r {spell:51052}  |cffa22fc8Erlexd|r {spell:196718}  |cffc59a6cEveey|r {spell:97462}  |cfffefefeGziv|r {spell:246287}  class:Evoker {spell:374227}  
+{time:00:47,SAR:413443:2}{spell:427722} |cff9370DBDebuffs out|r - |cff33937fSyfuumi|r {spell:374968}  
+{time:01:01,SAR:413443:2}{spell:425357} |cffFFD700Soak Dmg|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  
+{time:01:18,SAR:413443:2}{spell:420907} |cffF88379Rain Dmg|r - |cff00fe97Gdonut|r {spell:115310}  
+{time:01:31,SAR:413443:2}{spell:426855} |cff004000Intermission|r - |cff33937fAlexmrfour|r {spell:374968}  
+{time:01:56,SAR:413443:2}{spell:421368} |cffFFFF00Int dmg|r - |cff33937fWubby|r {spell:359816}  
+{time:02:07,SAR:413443:2}{spell:421368} |cffFFFF00Int dmg|r - {everyone} {spell:2565}  
+{time:00:06,SAR:413443:3}{spell:420846} |cff8B4513Phase 2 Dmg|r - |cfff38bb9Vidinapal|r {spell:31821}  |cff33937fWubby|r {spell:363534}  |cff006fdcJøhññÿgrûz|r {spell:98008}  |cfffefefeGziv|r {spell:246287}  class:Evoker {spell:374227}  
+{time:00:39,SAR:413443:3}{spell:420907} |cffF88379Rain Dmg|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  |cff006fdcJøhññÿgrûz|r {spell:108281}  
+{time:00:58,SAR:413443:3}{spell:420907} |cffF88379Rain Dmg|r - |cfffefefeGziv|r {spell:62618}  |cffc59a6cEveey|r {spell:97462}  
+"
+
+
+

@@ -1,0 +1,13 @@
+Höger - |cffa330c9Baddxd|r |cff00ff98Gdonut|r |cff0070ddTobbinator|r |cffc69b6dEveey|r |cffff7c0aJamalkm|r |cfffff468Eleem|r |cffaad372Dechunting|r|cfffff468Pippir|r |cff3fc7ebSnowm|r |cff33937fAlexmrfour|r  
+Vänster - |cffc41e3aQelgrip|r  |cff0070ddJøhññÿgrûz|r |cff33937fWubby|r |cffa330c9Erlexd|r |cffa330c9Jettdh|r |cffaad372Syf|r |cffffffffSlewen|r |cff3fc7ebEvandis|r |cff8788eeHojzti|r |cff33937fMår|r |cffaad372Pusselpetra|r
+
+"
+{time:00:12}{spell:421671} |cff8B4513Fury AOE|r - |cfffefefeGziv|r {spell:246287}  |cfffefefeChaztity|r {spell:246287}  class:Evoker {spell:374227}  
+{time:00:33}{spell:427197} |cffF88379Debuff Soaks|r - |cff006fdcJøhññÿgrûz|r {spell:108280}  
+{time:01:22}{spell:421671} |cff8B4513Fury AOE|r - |cffa22fc8Jettdh|r {spell:196718}  |cffa22fc8Erlexd|r {spell:196718}  |cfffefefeGziv|r {spell:47536}  |cffc31d39Braindamaged|r {spell:51052}  |cfffefefeGziv|r {spell:62618}  |cfff38bb9Vidinapal|r {spell:31821}  |cff33937fWubby|r {spell:359816}  |cfffefefeChaztity|r {spell:246287}  |cfffefefeChaztity|r {spell:62618}  
+{time:02:32}{spell:421671} |cff8B4513Fury AOE|r - class:Evoker {spell:374227}  |cffc59a6cEveey|r {spell:97462}  |cff006fdcJøhññÿgrûz|r {spell:98008}  |cfffefefeGziv|r {spell:246287}  |cfffefefeChaztity|r {spell:246287}  |cff33937fWubby|r {spell:363534}  
+{time:03:42}{spell:421671} |cff8B4513Fury AOE|r - |cffc31d39Braindamaged|r {spell:51052}  |cff33937fWubby|r {spell:363534}  |cff33937fWubby|r {spell:359816}  |cfffefefeGziv|r {spell:47536}  |cff006fdcJøhññÿgrûz|r {spell:108280}  |cfffefefeChaztity|r {spell:47536}  
+{time:04:45}{spell:420929} |cffFF8000Big AOE Soak|r - |cfff38bb9Vidinapal|r {spell:31821}  class:Evoker {spell:374227}  
+{time:04:52}{spell:421671} |cff8B4513Fury AOE|r - |cfffefefeGziv|r {spell:246287}  |cfffefefeChaztity|r {spell:246287}  
+"
+

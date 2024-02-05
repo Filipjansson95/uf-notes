@@ -1,0 +1,42 @@
+|cfff48cbaVidinapal|r  |cffaad372Syf|r  |cffaad372Pusselpetra|r 
+|cff33937fWubby|r |cff3fc7ebSnowm|r |cff33937fAlexmrfour|r 
+|cff0070ddJøhññÿgrûz|r |cff8788eeHojzti|r |cffffffffSlewen|r 
+
+{star} |cffaad372Pusselpetra|r 
+{circle} |cffaad372Syf|r 
+{diamond} |cff8788eeHojzti|r 
+{triangle} |cffff7c0aJamalkm|r 
+{moon} |cfffff468Eleem|r 
+{square}  |cff33937fAlexmrfour|r 
+{cross}  |cff00ff98Gdonut|r 
+{skull}  |cff8788eeHojzti|r 
+
+
+"
+{time:00:16}{spell:425889} |cff008000Fire Spawn|r - |cff006fdcJøhññÿgrûz|r {spell:108280}  |cfffefefeGziv|r {spell:246287}  
+{time:00:22}{spell:417653} |cff9370DBHeal Treants|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  
+{time:00:27}{spell:425025} |cffCC0000Charge AOE|r - |cfff38bb9Vidinapal|r {spell:31821}  
+{time:00:49}{spell:425025} |cffCC0000Charge AOE|r - |cff33937fWubby|r {spell:363534}  |cffc59a6cEveey|r {spell:97462}  |cfffefefeChaztity|r {text}""plocka seed mitten""{/text}  |cff33937fSyfuumi|r {text}""plocka seed mitten""{/text}  |cffa9d271Decohunting|r {text}""plocka seed mitten""{/text}  
+{time:01:05}{spell:422614} |cffFF6EC7Heal Roots|r - |cfffefefeChaztity|r {spell:47788}  
+{time:01:12}{spell:425025} |cffCC0000Charge AOE|r - |cffc31d39Qelgrip|r {spell:51052}  
+{time:01:35}{spell:417634} |cffFF8000Intermission AOE|r - |cfffefefeChaztity|r {spell:265202}  |cff006fdcJøhññÿgrûz|r {spell:98008}  |cffc31d39Braindamaged|r {spell:51052}  |cff00fe97Gdonut|r {spell:115310}  
+{time:01:49}{spell:425025} |cffCC0000Charge AOE|r - class:Evoker {spell:374227}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cffa22fc8Jettdh|r {spell:196718}  
+{time:02:09}{spell:417653} |cff9370DBHeal Treants|r - |cfffefefeChaztity|r {spell:64843}  
+{time:02:13}{spell:425025} |cffCC0000Charge AOE|r - |cfffefefeGziv|r {spell:246287}  |cffa22fc8Erlexd|r {spell:196718}  
+{time:02:19}{spell:425889} |cff008000Fire Spawn|r - |cfffefefeChaztity|r {spell:64901}  
+{time:02:42}{spell:425025} |cffCC0000Charge AOE|r - |cff006fdcJøhññÿgrûz|r {spell:108281}  |cff33937fWubby|r {text}""plocka seed mitten""{/text}  |cfffe7b09Snoweowl|r {text}""plocka seed mitten""{/text}  |cffa9d271Pusselpetra|r {text}""plocka seed mitten""{/text}  
+{time:02:55}{spell:422614} |cffFF6EC7Heal Roots|r - |cfffefefeChaztity|r {spell:47788}  
+{time:03:17}{spell:417634} |cffFF8000Intermission AOE|r - {everyone} {spell:{text}{spell:2565}Personals{/text}}  
+{time:03:48}{spell:417653} |cff9370DBHeal Treants|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  
+{time:03:51}{spell:425025} |cffCC0000Charge AOE|r - class:Evoker {spell:374227}  |cffc31d39Qelgrip|r {spell:51052}  
+{time:04:13}{spell:425025} |cffCC0000Charge AOE|r - |cfff38bb9Vidinapal|r {spell:31821}  |cff006fdcJøhññÿgrûz|r {text}""plocka seed mitten""{/text}  |cff8687edHojtzi|r {text}""plocka seed mitten""{/text}  |cff33937fAlexmrfour|r {text}""plocka seed mitten""{/text}  
+{time:04:29}{spell:422614} |cffFF6EC7Heal Roots|r - |cfffefefeChaztity|r {spell:47788}  |cfffefefeGziv|r {spell:246287}  
+{time:04:37}{spell:425025} |cffCC0000Charge AOE|r - {everyone} {spell:{text}{spell:2565}Personals{/text}}  
+{time:04:59}{spell:417634} |cff202020Intermission AOE|r - |cff00fe97Gdonut|r {spell:115310}  
+{time:00:03,SCS:421316:1}{spell:421316} |cff8B4513Phase 2 AOE 3/16 sec|r - |cff006fdcJøhññÿgrûz|r {spell:98008}  |cffc31d39Braindamaged|r {spell:51052}  |cff33937fWubby|r {spell:363534}  |cffa22fc8Jettdh|r {spell:196718}  
+{time:00:05,SCS:421316:1}{spell:421316} |cff8B4513Phase 2 AOE 5/16 sec|r - |cfffefefeGziv|r {spell:62618}  
+{time:00:28,SCS:421316:1}{spell:427252} |cff90EE90Soaks|r - |cfffefefeChaztity|r {spell:64901}  
+{time:00:41,SCS:421316:1}{spell:421325} |cff654321Adds|r - |cfffefefeChaztity|r {spell:265202}  
+{time:01:10,SCS:421316:1}{spell:428901} |cff8B4513Fall-off AOE|r - |cffc59a6cEveey|r {spell:97462}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  
+"
+
