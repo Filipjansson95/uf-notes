@@ -1,0 +1,46 @@
+liquidStart3
+1 |cffa330c9Jettdh|r
+2 |cffc41e3aQelgrip|r
+3 |cffaad372Dechunting|r
+4 |cff33937fWubby|r
+5 |cff006fdcJøhññÿgrûz|r
+6 |cfff48cbaVidinapal|r
+7 |cff3fc7ebEvandis|r 
+8 |cfff48cbaWindowbala|r
+9 |cffa330c9Baddxd|r
+liquidEnd3
+
+liquidStart
+|cffc41e3aQelgrip|r |cfff48cbaWindowbala|r
+|cffa330c9Jettdh|r |cffa330c9Erlexd|r
+|cff3fc7ebEvandis|r |cff8788eeHojzti|r 
+liquidEnd
+
+liquidStart2
+1 1 |cffc41e3aQelgrip|r Grip
+1 2 |cffc41e3aQelgrip|r Grip
+1 3 |cff33937fAlexmrfour|r Knock
+1 4 |cff0070ddTobbinator|r  Kick
+1 5 |cffc69b6dEveey|r Kick
+1 6 |cffa330c9Jettdh|r Kick
+1 7 |cfffff468Eleem|r Kick
+1 8 |cffaad372Dechunting|r Kick
+1 9 |cffa330c9Baddxd|r Kick
+1 10 |cffff7c0aJamalkm|r  Knock
+1 11 |cffc41e3aBraindamaged|r Grip
+1 12 |cffc41e3aBraindamaged|r Grip
+
+2 1 |cffc41e3aQelgrip|r Grip
+2 2 |cffc41e3aQelgrip|r Grip
+2 3 |cffff7c0aJamalkm|r Knock
+2 4 |cff0070ddTobbinator|r  Kick
+2 5 |cffc69b6dEveey|r Kick
+2 6 |cffa330c9Jettdh|r Kick
+2 7 |cfffff468Eleem|r Kick
+2 8 |cffaad372Dechunting|r Kick
+2 9 |cffa330c9Baddxd|r Kick
+2 10 |cff33937fWubby|r Knock
+2 11 |cffc41e3aBraindamaged|r Grip
+2 12 |cffc41e3aBraindamaged|r Grip
+liquidEnd2
+

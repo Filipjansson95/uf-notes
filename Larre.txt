@@ -1,15 +1,15 @@
-|cfff48cbaVidinapal|r  |cffaad372Syf|r  |cffaad372Pusselpetra|r 
-|cff33937fWubby|r |cff3fc7ebSnowm|r |cff33937fAlexmrfour|r 
-|cff0070ddJøhññÿgrûz|r |cff8788eeHojzti|r |cffffffffSlewen|r 
+|cff006fdcJøhññÿgrûz|r |cff33937fAlexmrfour|r |cffaad372Syf|r 
+|cff33937fWubby|r |cff3fc7ebSnowm|r  |cffaad372Pusselpetra|r 
+
 
 {star} |cffaad372Pusselpetra|r 
 {circle} |cffaad372Syf|r 
 {diamond} |cff8788eeHojzti|r 
 {triangle} |cffff7c0aJamalkm|r 
 {moon} |cfffff468Eleem|r 
-{square}  |cff33937fAlexmrfour|r 
-{cross}  |cff00ff98Gdonut|r 
-{skull}  |cff8788eeHojzti|r 
+{square} |cff33937fAlexmrfour|r 
+{cross} |cff00ff98Gdonut|r 
+{skull} |cff8788eeHojzti|r 
 
 
 "
