@@ -1,11 +1,11 @@
 liquidStart3
 1 |cffa330c9Jettdh|r
 2 |cffc41e3aQelgrip|r
-3 |cffaad372Dechunting|r
+3 |cffaad372Pusselpetra|r 
 4 |cff33937fWubby|r
 5 |cff006fdcJøhññÿgrûz|r
 6 |cfff48cbaVidinapal|r
-7 |cff3fc7ebEvandis|r 
+7 |cff3fc7ebSnowm|r 
 8 |cfff48cbaWindowbala|r
 9 |cffa330c9Baddxd|r
 liquidEnd3
@@ -13,7 +13,7 @@ liquidEnd3
 liquidStart
 |cffc41e3aQelgrip|r |cfff48cbaWindowbala|r
 |cffa330c9Jettdh|r |cffa330c9Erlexd|r
-|cff3fc7ebEvandis|r |cff8788eeHojzti|r 
+|cff3fc7ebSnowm|r |cff8788eeHojzti|r 
 liquidEnd
 
 liquidStart2
@@ -43,4 +43,59 @@ liquidStart2
 2 11 |cffc41e3aBraindamaged|r Grip
 2 12 |cffc41e3aBraindamaged|r Grip
 liquidEnd2
+
+"
+{time:00:03}|cff808080On Pull|r - |cff00fe97Gdonut|r {spell:322118}  
+{time:00:37}{spell:417789} |cffFFFF00Lines|r - |cff006fdcTobbinator|r {spell:192077}  |cff00fe97Gdonut|r {spell:115310}  |cffc59a6cEveey|r {spell:97462}  |cfff38bb9Vidinapal|r {spell:31821}  |cff006fdcTobbinator|r {spell:108281}  
+{time:00:43}{spell:420422} |cffFF6666Aoe Hit|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  class:Evoker {spell:374227}  |cff3ec6eaEvandis|r {spell:414660}  |cfffefefeChaztity|r {spell:265202}  
+{time:00:50}{spell:417455} |cff004000Run away|r - |cff33937fAlexmrfour|r {spell:374968}  |cfffefefeChaztity|r {spell:72734}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cfffe7b09Jamalkm|r {spell:77764}  
+{time:00:54}{spell:417455} |cff8B4513Run away Aoe 3s|r - |cffc31d39Braindamaged|r {spell:51052}  
+{time:00:57}{spell:417455} |cff8B4513Dodge Aoe 3s |r - |cff00fe97Gdonut|r {spell:322118}  
+{time:01:04}{spell:417789} |cffFFFF00Lines|r - |cfffefefeChaztity|r {spell:64901}  / 
+{time:01:29}{spell:426392} |cffFFA500Group Soaks|r - |cff33937fWubby|r {spell:363534}  |cff006fdcJøhññÿgrûz|r {spell:108280}  {text} {/text}  
+{time:01:38}{spell:417789} |cffFFFF00Lines|r - |cffc31d39Qelgrip|r {spell:51052}  |cffa22fc8Baddxd|r {spell:196718}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  
+{time:01:52}{spell:417455} |cff004000Run away|r - |cfffefefeSlewen|r {spell:72734}  |cff006fdcJøhññÿgrûz|r {spell:98008}  |cff006fdcTobbinator|r {spell:192077}  |cff006fdcKlubbarn|r {spell:192077}  |cff33937fMår|r {spell:374968}  
+{time:01:56}{spell:417455} |cff8B4513Run away Aoe 3s|r - |cfffefefeChaztity|r {spell:64843}  |cff33937fWubby|r {spell:359816}  |cffa22fc8Jettdh|r {spell:196718}  
+{time:01:59}{spell:417455} |cff8B4513Dodge Aoe 3s |r - |cff00fe97Gdonut|r {spell:322118}  |cfff38bb9Windowbala|r {spell:204018}  
+{time:00:09,SCS:412761:1}{spell:111771} |cff008000Gateway|r - |cff006fdcJøhññÿgrûz|r {spell:192077}  |cfffe7b09Jamalkm|r {spell:77764}  
+{time:00:10,SCS:412761:1}{spell:412761} |cffCC0000Boss Lands|r - |cff00fe97Gdonut|r {spell:115310}  
+{time:00:17,SCS:412761:1}{spell:429936} |cff8A2BE2Orbs|r - |cff33937fAlexmrfour|r {spell:374968}  
+{time:00:22,SCS:412761:1}{spell:429936} |cff8A2BE2Orbs|r - |cff3ec6eaEvandis|r {spell:414660}  |cffc31d39Braindamaged|r {spell:51052}  
+{time:00:29,SCS:412761:1}{spell:429936} |cff8A2BE2Orbs|r - |cff00fe97Gdonut|r {spell:322118}  |cff006fdcJøhññÿgrûz|r {spell:108281}  |cff33937fAlexmrfour|r {spell:374968}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  class:Evoker {spell:374227}  
+{time:00:40,SCS:412761:1}{spell:417789} |cffFFFF00Lines|r - {everyone} {spell:{text}{spell:441}Healing Potion{/text}}  
+{time:00:15,SAR:421922:1}{spell:422605} |cffFF6EC75 Mid 1 Mid|r - |cff00fe97Gdonut|r {spell:116849}  
+{time:00:33,SAR:421922:1}{spell:417789} |cffF88379Lines|r - |cff006fdcJøhññÿgrûz|r {spell:108280}  
+{time:00:37,SAR:421922:1}{spell:422605} |cffFF6EC75 North 1 South|r - |cff006fdcJøhññÿgrûz|r {spell:114049}  |cfffefefeChaztity|r {spell:47788}  
+{time:00:38,SAR:421922:1}{spell:422522} |cff004000Swirlies + Lines|r - {everyone} {spell:{text}{spell:2565}Personals{/text}}  
+{time:00:44,SAR:421922:1}{spell:422523} |cff331900Golem Adds|r - |cff33937fAlexmrfour|r {spell:374968}  |cfffefefeSlewen|r {spell:72734}  
+{time:00:47,SAR:421922:1}{spell:412761} |cffCD853FBoss Fly Away|r - |cfff38bb9Vidinapal|r {text}""autum qel""{/text}  
+{time:00:52,SAR:421922:1}{spell:429946} |cffFFA500Cage Stuns|r - |cffc31d39Qelgrip|r {spell:51052}  |cff006fdcJøhññÿgrûz|r {spell:98008}  |cff006fdcJøhññÿgrûz|r {spell:192077}  |cfffefefeChaztity|r {spell:64901}  
+{time:00:57,SAR:421922:1}{spell:417789} |cffF88379Lines|r - |cffc59a6cEveey|r {spell:97462}  |cff00fe97Gdonut|r {spell:322118}  |cfffe7b09Jamalkm|r {spell:77764}  
+{time:01:02,SAR:421922:1}{spell:422605} |cffFF6EC75 North 1 South|r - |cfffefefeSlewen|r {text}""voidswap""{/text}  
+{time:01:16,SAR:421922:1}{spell:429946} |cffFFA500Cage Stuns|r - |cffa22fc8Baddxd|r {spell:196718}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  
+{time:01:26,SAR:421922:1}{spell:419123} |cffCC0000Boss Lands|r - |cff33937fWubby|r {spell:374968}  
+{time:01:33,SAR:421922:1}{spell:422605} |cffFF6EC710 Mid|r - |cff33937fWubby|r {spell:359816}  |cff00fe97Gdonut|r {spell:115310}  
+{time:01:57,SAR:421922:1}{spell:422605} |cffFF6EC75 North 1 South|r - |cff006fdcJøhññÿgrûz|r {spell:108281}  
+{time:01:58,SAR:421922:1}{spell:422522} |cff004000Swirlies + Lines|r - |cff00fe97Gdonut|r {spell:322118}  |cfffefefeChaztity|r {spell:64843}  |cff33937fMår|r {spell:406732}  
+{time:02:04,SAR:421922:1}{spell:422523} |cff331900Golem Adds|r - |cffa22fc8Jettdh|r {spell:196718}  class:Evoker {spell:374227}  |cff3ec6eaEvandis|r {spell:414660}  
+{time:02:07,SAR:421922:1}{spell:412761} |cffCD853FBoss Fly Away|r - |cfff38bb9Vidinapal|r {spell:31821}  
+{time:02:12,SAR:421922:1}{spell:429946} |cffFFA500Cage Stuns|r - |cffc31d39Braindamaged|r {spell:51052}  
+{time:02:21,SAR:421922:1}{spell:422605} |cffFF6EC71 North+Mid+South|r - |cff33937fAlexmrfour|r {spell:370665}  |cfffefefeChaztity|r {text}""voidswap""{/text}  |cfffefefeChaztity|r {spell:47788}  
+{time:02:46,SAR:421922:1}{spell:419123} |cffCC0000Boss Lands|r - |cff33937fWubby|r {spell:363534}  
+{time:02:52,SAR:421922:1}{spell:417789} |cffF88379Lines|r - |cffc59a6cEveey|r {spell:97462}  |cffc31d39Qelgrip|r {spell:51052}  
+{time:02:53,SAR:421922:1}|cffFF6EC75 Right 1 South|r - |cff33937fWubby|r {spell:370665}  
+{time:03:13,SAR:421922:1}{spell:417789} |cffF88379Lines|r - |cff00fe97Gdonut|r {spell:322118}  
+{time:00:37,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cff00fe97Gdonut|r {spell:322118}  |cff33937fMår|r {spell:374968}  |cfffe7b09Jamalkm|r {spell:77764}  
+{time:00:50,SCS:412761:4}{spell:422837} |cff8B4513Push + Gate|r - |cff006fdcTobbinator|r {text}anc{/text}  class:Evoker {spell:374227}  |cff00fe97Gdonut|r {spell:115310}  
+{time:01:10,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cff33937fAlexmrfour|r {spell:374968}  
+{time:01:24,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cff006fdcTobbinator|r {spell:192077}  |cfffefefeChaztity|r {spell:64901}  
+{time:01:36,SCS:412761:4}{spell:422837} |cff8B4513Push|r - |cff33937fWubby|r {spell:359816}  |cffc31d39Qelgrip|r {spell:51052}  {everyone} {spell:111771}  |cff33937fAlexmrfour|r {spell:406732}  |cfffefefeChaztity|r {spell:64843}  |cfffefefeChaztity|r {text}""Grip Evandis""{/text}  
+{time:01:57,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cff00fe97Gdonut|r {spell:322118}  
+{time:02:06,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cfffe7b09Jamalkm|r {spell:77764}  
+{time:02:22,SCS:412761:4}{spell:422837} |cff8B4513Push|r - |cffa22fc8Jettdh|r {spell:196718}  |cfff38bb9Vidinapal|r {spell:31821}  |cfffefefeChaztity|r {spell:265202}  |cffc31d39Braindamaged|r {spell:51052}  
+{time:02:44,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cff33937fMår|r {spell:374968}  
+{time:02:55,SCS:412761:4}{spell:417789} |cffF88379Lines|r - |cff00fe97Gdonut|r {spell:322118}  
+{time:03:04,SCS:412761:4}{spell:423717} |cff87CEEBShield|r - |cfffe7b09Jamalkm|r {spell:77764}  |cffc59a6cEveey|r {spell:97462}  class:Evoker {spell:374227}  
+{time:03:08,SCS:412761:4}{spell:422837} |cff8B4513Push + Gate|r - |cff33937fWubby|r {spell:363534}  |cff33937fAlexmrfour|r {spell:374968}  |cffa22fc8Erlexd|r {spell:196718}  |cffa22fc8Baddxd|r {spell:196718}  |cff00fe97Gdonut|r {spell:115310}  
+"
 

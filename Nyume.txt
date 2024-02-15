@@ -1,10 +1,10 @@
 
 LiquidStart
-left |cfff48cbaWindowpala|r  |cff00ff98Gdonut|r |cfffff468Pippir|r |cfff48cbaVidinapal|r |cffaad372Decohunting|r |cffffffffSlewen|r |cffaad372Syf|r 
+left |cfff48cbaWindowpala|r  |cff00ff98Gdonut|r |cfffff468Pippir|r |cfff48cbaVidinapal|r |cff8788eeDecwarlåk|r |cffffffffSlewen|r |cffaad372Syf|r 
 right |cffc41e3aQelgrip|r  |cff0070ddJøhññÿgrûz|r |cffff7c0aJamalkm|r |cff3fc7ebSnowm|r |cff33937fAlexmrfour|r |cffc69b6dEveey|r 
-middle  |cff33937fWubby|r  |cffa330c9Baddxd|r |cfff48cbaJohnkassler|r |cff33937fMår|r |cff8788eeHojzti|r  |cfffff468Eleem|r 
+middle  |cff33937fWubby|r  |cffa330c9Jettdh|r |cfff48cbaJohnkassler|r |cff33937fMår|r |cff8788eeHojzti|r  |cfffff468Eleem|r 
 
-left |cfff48cbaWindowpala|r |cff33937fWubby|r |cfff48cbaVidinapal|r |cfffff468Pippir|r  |cffa330c9Baddxd|r |cffaad372Decohunting|r  |cff33937fMår|r 
+left |cfff48cbaWindowpala|r |cff33937fWubby|r |cfff48cbaVidinapal|r |cfffff468Pippir|r  |cffa330c9Jettdh|r |cff8788eeDecwarlåk|r  |cff33937fMår|r 
 right |cffc41e3aQelgrip|r |cff00ff98Gdonut|r  |cfff48cbaJohnkassler|r  |cff8788eeHojzti|r |cfffff468Eleem|r |cff33937fAlexmrfour|r 
 middle |cff0070ddJøhññÿgrûz|r |cffffffffSlewen|r |cff3fc7ebSnowm|r |cffc69b6dEveey|r |cffff7c0aJamalkm|r |cffaad372Syf|r
 LiquidEnd

@@ -1,8 +1,8 @@
 |cff006fdcJøhññÿgrûz|r |cff33937fAlexmrfour|r |cffaad372Syf|r 
-|cff33937fWubby|r |cff3fc7ebSnowm|r  |cffaad372Pusselpetra|r 
+|cff33937fWubby|r |cff3fc7ebSnowm|r |cff33937fMår|r 
 
 
-{star} |cffaad372Pusselpetra|r 
+{star} |cff33937fMår|r
 {circle} |cffaad372Syf|r 
 {diamond} |cff8788eeHojzti|r 
 {triangle} |cffff7c0aJamalkm|r 

@@ -1,29 +1,31 @@
 "
 {time:00:16}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:246287}  
 {time:00:26}{spell:422691} |cff90EE90Geysers|r - |cff33937fWubby|r {spell:359816}  |cff33937fAlexmrfour|r {spell:374968}  |cff006fdcJøhññÿgrûz|r {spell:114049}  |cff006fdcJøhññÿgrûz|r {spell:108281}  |cfffe7b09Snoweowl|r {spell:77764}  |cffc31d39Braindamaged|r {spell:51052}  |cff006fdcTobbinator|r {spell:108281}  |cff006fdcKlubbarn|r {spell:108281}  
-{time:00:46}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:47536}  |cfffefefeGziv|r {spell:62618}  class:Evoker {spell:374227}  |cff006fdcTobbinator|r {spell:192077}  |cff33937fSyfuumi|r {spell:374968}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cfff38bb9Windowbala|r {text}""Sac nikko""{/text}  
+{time:00:46}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:47536}  |cfffefefeGziv|r {spell:62618}  class:Evoker {spell:374227}  |cff006fdcTobbinator|r {spell:192077}  |cff33937fMår|r {spell:374968}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cfff38bb9Windowbala|r {text}""Sac nikko""{/text}  
 {time:01:08}{spell:422277} |cff004000P2 Knock|r - |cff33937fWubby|r {spell:374968}  |cff33937fAlexmrfour|r {text}""grip PP""{/text}  |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  
 {time:01:13}{spell:422277} |cffFFD700Ring 1 + Buff|r - |cff006fdcJøhññÿgrûz|r {spell:98008}  |cff006fdcKlubbarn|r {spell:192077}  
 {time:01:54}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:246287}  |cffa22fc8Jettdh|r {spell:196718}  |cfffe7b09Snoweowl|r {spell:77764}  
 {time:02:04}{spell:422691} |cff90EE90Geysers|r - |cff006fdcJøhññÿgrûz|r {spell:192077}  
 {time:02:24}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:47536}  |cffa22fc8Erlexd|r {spell:196718}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cffc59a6cEveey|r {spell:97462}  
 {time:02:29}{spell:422691} |cff90EE90Geysers|r - |cfff38bb9Vidinapal|r {spell:31821}  |cff006fdcJøhññÿgrûz|r {spell:108281}  |cff33937fAlexmrfour|r {spell:374968}  
-{time:02:47}{spell:422277} |cff004000P2 Knock|r - class:Evoker {spell:374227}  |cff33937fSyfuumi|r {text}""paradox gziv""{/text}  |cff33937fAlexmrfour|r {text}""grip PP""{/text}  |cfff38bb9Vidinapal|r {text}""Sac nikko""{/text}  |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  
-{time:02:52}{spell:422277} |cffFFD700Ring 1 + Buff|r - |cff33937fWubby|r {spell:359816}  |cffc31d39Braindamaged|r {spell:51052}  |cff33937fSyfuumi|r {spell:374968}  |cff006fdcTobbinator|r {spell:192077}  |cff006fdcTobbinator|r {spell:108281}  |cff006fdcKlubbarn|r {spell:108281}  
+{time:02:47}{spell:422277} |cff004000P2 Knock|r - class:Evoker {spell:374227}  |cff33937fMår|r {text}""paradox gziv""{/text}  |cff33937fAlexmrfour|r {text}""grip PP""{/text}  |cfff38bb9Vidinapal|r {text}""Sac nikko""{/text}  |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  
+{time:02:52}{spell:422277} |cffFFD700Ring 1 + Buff|r - |cff33937fWubby|r {spell:359816}  |cffc31d39Braindamaged|r {spell:51052}  |cff33937fMår|r {spell:374968}  |cff006fdcTobbinator|r {spell:192077}  |cff006fdcTobbinator|r {spell:108281}  |cff006fdcKlubbarn|r {spell:108281}  
 {time:02:56}{spell:422277} |cffFFD700Ring 2|r - |cff33937fWubby|r {spell:363534}  
 {time:03:33}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:246287}  |cff006fdcJøhññÿgrûz|r {spell:114049}  |cff33937fWubby|r {spell:374968}  |cff006fdcKlubbarn|r {spell:192077}  
 {time:03:50}{spell:426018} |cff8A2BE2Orb Soaks|r - |cfffe7b09Snoweowl|r {spell:77764}  
 {time:04:03}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:47536}  |cfffefefeGziv|r {spell:62618}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  
 {time:04:26}{spell:422277} |cff004000P2 Knock|r - |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  |cff33937fAlexmrfour|r {text}""grip PP""{/text}  |cfff38bb9Windowbala|r {text}""Sac nikko""{/text}  |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  
 {time:04:31}{spell:422277} |cffFFD700Ring 1 + Buff|r - |cff006fdcJøhññÿgrûz|r {spell:98008}  |cff33937fAlexmrfour|r {spell:374968}  |cff006fdcJøhññÿgrûz|r {spell:192077}  
-{time:05:12}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:246287}  |cff33937fSyfuumi|r {spell:374968}  |cfffe7b09Snoweowl|r {spell:77764}  |cffa22fc8Jettdh|r {spell:196718}  
+{time:05:12}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:246287}  |cff33937fMår|r {spell:374968}  |cfffe7b09Snoweowl|r {spell:77764}  |cffa22fc8Jettdh|r {spell:196718}  
 {time:05:29}{spell:426018} |cff8A2BE2Orb Soaks|r - |cff33937fWubby|r {spell:374968}  
 {time:05:42}{spell:421450} |cffFF8000Frontal Soak|r - |cfffefefeGziv|r {spell:47536}  |cffa22fc8Erlexd|r {spell:196718}  |cff006fdcKlubbarn|r {spell:192077}  |cffc31d39Braindamaged|r {spell:51052}  
 {time:05:47}{spell:422691} |cff90EE90Geysers|r - |cfff38bb9Vidinapal|r {spell:31821}  class:Evoker {spell:374227}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  
-{time:06:05}{spell:422277} |cff004000P2 Knock|r - |cff33937fSyfuumi|r {text}""paradox gziv""{/text}  |cff33937fAlexmrfour|r {text}""grip PP""{/text}  |cfff38bb9Vidinapal|r {text}""Sac nikko""{/text}  |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  
+{time:06:05}{spell:422277} |cff004000P2 Knock|r - |cff33937fMår|r {text}""paradox gziv""{/text}  |cff33937fAlexmrfour|r {text}""grip PP""{/text}  |cfff38bb9Vidinapal|r {text}""Sac nikko""{/text}  |cff33937fAlexmrfour|r {text}""paradox gziv""{/text}  
 {time:06:10}{spell:422277} |cffFFD700Ring 1 + Buff|r - |cff006fdcTobbinator|r {spell:108281}  |cff006fdcKlubbarn|r {spell:108281}  
 {time:06:14}{spell:422277} |cffFFD700Ring 2|r - |cff33937fWubby|r {spell:363534}  
 {time:06:30}{spell:422277} |cffFFD700Ring 6|r - |cff33937fAlexmrfour|r {spell:374968}  |cff006fdcTobbinator|r {spell:108281}  
 {time:06:34}{spell:422277} |cffFFD700Ring 7|r - |cffc59a6cEveey|r {spell:97462}  |cfffefefeGziv|r {spell:246287}  
 "
+
+
 
