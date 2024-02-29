@@ -1,6 +1,6 @@
 LiquidStart
-|cfffff468Eleem|r  |cffa330c9Erlexd|r |cffa330c9Jettdh|r 
-|cffa330c9Baddxd|r |cffc69b6dEveey|r  |cff006fdcTobbinator|r 
+|cfffff468Eleem|r |cfff48cbaJohnkassler|r |cffa330c9Jettdh|r 
+|cffa330c9Baddxd|r |cffc69b6dScalpeter|r  |cff006fdcTobbinator|r 
 LiquidEnd
 
 LiquidStart2
@@ -38,21 +38,21 @@ Window spelward godtycklig
 {time:00:31}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc59a6cEveey|r {spell:97462}  |cff006fdcJøhññÿgrûz|r {spell:114049}  |cffa22fc8Jettdh|r {spell:196718}  |cff00fe97Gdonut|r {spell:115310}  |cff33937fWubby|r {spell:359816}  |cff006fdcKlubbarn|r {spell:108281}  |cff006fdcTobbinator|r {spell:108281}  |cff006fdcTobbinator|r {spell:192077}  |cffa22fc8Erlexd|r {spell:196718}  
 {time:00:35}{spell:421398} |cff90EE90Beam Move|r - |cfffe7b09Jamalkm|r {spell:77764}  |cff33937fAlexmrfour|r {spell:374968}  
 {time:00:41}{spell:421398} |cff90EE90Beam Move|r - |cff006fdcTobbinator|r {spell:192077}  
-{time:00:51}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc31d39Qelgrip|r {spell:51052}  |cfff38bb9Windowbala|r {spell:204018}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cfffefefeChaztity|r {spell:64843}  |cfffefefeGziv|r {spell:246287}  |cff33937fWubby|r {spell:374968}  |cff006fdcJøhññÿgrûz|r {spell:192077}  
+{time:00:51}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc31d39Qelgrip|r {spell:51052}  |cfff38bb9Windowbala|r {spell:204018}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cfffefefeChaztity|r {spell:64843}  |cfffefefeMayhemxd|r {spell:246287}  |cff33937fWubby|r {spell:374968}  |cff006fdcJøhññÿgrûz|r {spell:192077}  
 {time:00:56}{spell:420237} |cffAB0E0EStar 640k hit|r - class:Evoker {spell:374227}  |cfffefefeChaztity|r {spell:64901}  |cff006fdcJøhññÿgrûz|r {spell:207399}  |cfffe7b09Snoweowl|r {spell:77764}  
-{time:01:01}{spell:424581} |cff0000FFDispel x4|r - |cfff38bb9Vidinapal|r {spell:199448}  |cfffefefeGziv|r {spell:33206}  |cff00fe97Gdonut|r {spell:116849}  |cff33937fWubby|r {spell:357170}  
+{time:01:01}{spell:424581} |cff0000FFDispel x4|r - |cfff38bb9Vidinapal|r {spell:199448}  |cfffefefeMayhemxd|r {spell:33206}  |cff00fe97Gdonut|r {spell:116849}  |cff33937fWubby|r {spell:357170}  
 {time:01:11}{spell:424495} |cffFFA500Root 216k/ea|r - |cffa22fc8Baddxd|r {spell:196718}  
 {time:01:15}{spell:421398} |cff90EE90Beam Move|r - {everyone} {spell:{text}{spell:111771}Gateway{/text}}  
 {time:00:57,SAA:421603:1}{spell:424140} |cffFF8000Nova 672k hit|r - |cffc31d39Braindamaged|r {spell:51052}  
-{time:01:21,SAA:421603:1}{spell:424495} |cffFFA500Root 216k/ea|r - |cff00fe97Gdonut|r {spell:115310}  |cfffefefeChaztity|r {spell:265202}  |cff006fdcJøhññÿgrûz|r {spell:108280}  |cff006fdcTobbinator|r {spell:108281}  |cff006fdcJøhññÿgrûz|r {spell:192077}  |cfffefefeGziv|r {spell:62618}  
+{time:01:21,SAA:421603:1}{spell:424495} |cffFFA500Root 216k/ea|r - |cff00fe97Gdonut|r {spell:115310}  |cfffefefeChaztity|r {spell:265202}  |cff006fdcJøhññÿgrûz|r {spell:108280}  |cff006fdcTobbinator|r {spell:108281}  |cff006fdcJøhññÿgrûz|r {spell:192077}  |cfffefefeMayhemxd|r {spell:62618}  
 {time:01:24,SAA:421603:1}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - {everyone} {spell:6262}  
 {time:01:33,SAA:421603:1}{spell:424581} |cff0000FFDispel x4|r - |cff33937fWubby|r {spell:359816}  |cfff38bb9Windowbala|r {spell:199448}  |cfffefefeChaztity|r {spell:47788}  
-{time:01:42,SAA:421603:1}{spell:420237} |cffAB0E0EStar 640k|r - |cfffefefeGziv|r {spell:246287}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cff006fdcTobbinator|r {spell:192077}  |cfffe7b09Snoweowl|r {spell:77764}  |cfff38bb9Vidinapal|r {spell:31821}  
+{time:01:42,SAA:421603:1}{spell:420237} |cffAB0E0EStar 640k|r - |cfffefefeMayhemxd|r {spell:246287}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cff006fdcTobbinator|r {spell:192077}  |cfffe7b09Snoweowl|r {spell:77764}  |cfff38bb9Vidinapal|r {spell:31821}  
 {time:01:46,SAA:421603:1}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - |cff00fe97Gdonut|r {spell:115310}  |cff006fdcJøhññÿgrûz|r {spell:98008}  
 {time:01:52,SAA:421603:1}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc31d39Qelgrip|r {spell:51052}  
 {time:01:58,SAA:421603:1}{spell:424581} |cff0000FFDispel x4|r - |cfffefefeChaztity|r {spell:64901}  |cff00fe97Gdonut|r {spell:116849}  |cfff38bb9Vidinapal|r {spell:199448}  |cff33937fWubby|r {spell:357170}  |cffa22fc8Erlexd|r {spell:196718}  
 {time:02:12,SAA:421603:1}{spell:424495} |cffFFA500Root 216k/ea|r - |cffa22fc8Jettdh|r {spell:196718}  |cff006fdcJøhññÿgrûz|r {spell:192077}  |cff006fdcJøhññÿgrûz|r {spell:114049}  |cff33937fWubby|r {spell:363534}  |cfffe7b09Jamalkm|r {spell:77764}  |cff006fdcJøhññÿgrûz|r {spell:207399}  
-{time:02:15,SAA:421603:1}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cffc59a6cEveey|r {spell:97462}  class:Evoker {spell:374227}  {everyone} {spell:441}  |cff3ec6eaEvandis|r {spell:414660}  |cff33937fWubby|r {spell:374968}  
+{time:02:15,SAA:421603:1}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cffc59a6cEveey|r {spell:97462}  class:Evoker {spell:374227}  {everyone} {spell:441}  |cff3ec6eaEvandis|r {spell:414660}  |cff33937fWubby|r {spell:374968}  |cffc59a6cScalpeter|r {spell:97462}  
 {time:00:31,SAA:421603:2}{spell:424140} |cffFF8000Nova 336k hit|r - |cff00fe97Gdonut|r {spell:322118}  
 {time:00:59,SAA:421603:2}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc31d39Braindamaged|r {spell:51052}  
 {time:01:10,SAA:421603:2}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - |cfffefefeChaztity|r {spell:64843}  |cff33937fWubby|r {spell:359816}  |cfffe7b09Snoweowl|r {spell:77764}  
@@ -66,10 +66,8 @@ Window spelward godtycklig
 {time:02:32,SAA:421603:2}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - |cfff38bb9Vidinapal|r {spell:31821}  |cfffe7b09Jamalkm|r {spell:77764}  
 {time:02:37,SAA:421603:2}{spell:424581} |cff0000FFDispel x4|r - |cfffefefeChaztity|r {spell:47788}  |cfff38bb9Windowbala|r {spell:199448}  {everyone} {spell:441}  
 {time:02:48,SAA:421603:2}{spell:424495} |cffFFA500Root 216k/ea|r - |cff006fdcJøhññÿgrûz|r {spell:98008}  |cffa22fc8Jettdh|r {spell:196718}  |cffa22fc8Erlexd|r {spell:196718}  
-{time:03:12,SAA:421603:2}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc31d39Braindamaged|r {spell:51052}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cffc59a6cEveey|r {spell:97462}  |cff33937fWubby|r {spell:359816}  
+{time:03:12,SAA:421603:2}{spell:424495} |cffFFA500Root 216k/ea|r - |cffc31d39Braindamaged|r {spell:51052}  {everyone} {spell:{text}{spell:2565}Personals{/text}}  |cffc59a6cEveey|r {spell:97462}  |cff33937fWubby|r {spell:359816}  |cffc59a6cScalpeter|r {spell:97462}  
 {time:03:15,SAA:421603:2}{spell:423265} |cff8B4513Seeds 2000k 20 sec|r - |cff33937fWubby|r {spell:363534}  |cff006fdcJøhññÿgrûz|r {spell:114049}  |cff00fe97Gdonut|r {spell:322118}  
 {time:03:22,SAA:421603:2}{spell:424581} |cff0000FFDispel x4|r - |cff00fe97Gdonut|r {spell:116849}  |cff33937fWubby|r {spell:357170}  |cfff38bb9Vidinapal|r {spell:199448}  {text} {/text}  
 "
-
-
 

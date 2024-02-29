@@ -1,4 +1,4 @@
-|cff006fdcJøhññÿgrûz|r |cff33937fAlexmrfour|r |cffaad372Syf|r 
+|cff006fdcJøhññÿgrûz|r |cff33937fScantanis|r |cffaad372Syf|r 
 |cff33937fWubby|r |cff3fc7ebSnowm|r |cff33937fMår|r 
 
 
@@ -7,7 +7,7 @@
 {diamond} |cff8788eeHojzti|r 
 {triangle} |cffff7c0aJamalkm|r 
 {moon} |cfffff468Eleem|r 
-{square} |cff33937fAlexmrfour|r 
+{square} |cff33937fScantanis|r 
 {cross} |cff00ff98Gdonut|r 
 {skull} |cff8788eeHojzti|r 
 
