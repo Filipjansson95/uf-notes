@@ -1,7 +1,7 @@
 
-TEAM 1 (MID>LEFT>LEFT) cffffffffMayhemxd|r |cff0070ddTobbinator|r |cffc69b6dScalpeter|r |cffc69b6dEveey|r |cfffff468Eleem|r
-TEAM 2 (RIGHT>MID>RIGHT) |cff006fdcJøhññÿgrûz|r |cffa330c9Jettdh|r |cfffe7b09Jamalkm|r |cff33937fMår|r |cffaad372Syf|r
-TEAM 3 (LEFT>RIGHT>MID) |cfff38bb9Vidinapal|r |cff00fe97Gdonut|r |cff33937fScantanis|r |cff3fc7ebSnowm|r |cfff48cbaJohnkassler|r |cfffefefeSlewen|r |cff8687edBirdfighterx|r
+TEAM 1 (MID>LEFT>LEFT) |cff33937fWubby|r |cff0070ddTobbinator|r |cffc69b6dScalpeter|r |cffc69b6dEveey|r |cfffff468Eleem|r Deco
+TEAM 2 (RIGHT>MID>RIGHT) |cff00fe97Gdonut|r  |cffa330c9Jettdh|r |cfffe7b09Jamalkm|r |cff33937fMår|r |cffaad372Syf|r Pippir 
+TEAM 3 (LEFT>RIGHT>MID) |cfff38bb9Vidinapal|r |cff33937fScantanis|r |cff3fc7ebSnowm|r  |cfffefefeSlewen|r |cff8687edBirdfighterx|r
 
 "
 {time:00:23}{spell:420907} |cffF88379Rain Dmg|r - |cfffefefeGziv|r {spell:246287}  
